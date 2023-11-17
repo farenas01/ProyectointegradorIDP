@@ -1,9 +1,9 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* Americanino page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
+* Copyright: 2023 AMCNO (https://Americanino.com)
 * Licensed: (https://devcrud.com/licenses)
 * Coded by www.devcrud.com
 

@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /*!
 =========================================================
-* JohnDoe Landing page
+* AMCNO Landing page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
+* Copyright: 2023 DevCRUD (https://www.americanino.com/)
 * Licensed: (https://devcrud.com/licenses)
 * Coded by www.devcrud.com
 
@@ -54,7 +54,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgba(33, 61, 201, 0);
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #1e2e84;
   text-decoration: none;
   background-color: transparent;
 }
